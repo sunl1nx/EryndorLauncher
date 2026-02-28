@@ -20,6 +20,16 @@ exports.initRPC = function(genSettings, servSettings, initialDetails = Lang.quer
         largeImageText: servSettings.largeImageText,
         smallImageKey: genSettings.smallImageKey,
         smallImageText: genSettings.smallImageText,
+        buttons: [
+            {
+                label: 'Discord',
+                url: 'https://discord.gg/56XCPQQpbW'
+            },
+            {
+                label: 'Site',
+                url: 'https://eryndor.wstr.fr'
+            }
+        ],
         startTimestamp: new Date().getTime(),
         instance: false
     }

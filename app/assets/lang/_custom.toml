@@ -16,10 +16,10 @@ supportLink = "https://github.com/Sunl1nx/EL/issues"
 
 [ejs.welcome]
 welcomeHeader = "BIENVENUE SUR ERYNDOR RP"
-welcomeDescription = "Eryndor est un Network RP créer par : Sunl1nx, MssCamz et Itz__yu"
-welcomeDescCTA = "Vous etes a deux pas des terres d'Eryndor RP"
+welcomeDescription = "Eryndor est un Network RP créer par : Sunl1nx, Ca.mz et Yuki"
+welcomeDescCTA = "Nous avons hate de vous accueillir au sein de notre infrastructure."
 
 [js.landing.discord]
 loading = "Chargement du jeu.."
-joining = "En route vers Eryndor !"
-joined = "Exploration d'Eryndor !"
+joining = "Réveil en cours..."
+joined = "Sujet réveilé"
